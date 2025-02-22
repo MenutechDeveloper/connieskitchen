@@ -182,7 +182,7 @@ body {
 .reservations {
   width: 100%;
   height: 400px;
-  background: url("./assets/img/table.jpg");
+  background: url("./table.jpg");
   background-position: center;
   background-attachment: fixed;
   display: flex;
